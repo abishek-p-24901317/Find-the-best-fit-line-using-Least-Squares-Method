@@ -46,7 +46,17 @@ plt.show()
 ```
 
 ## Output:
-![Screenshot 2025-04-24 160052](https://github.com/user-attachments/assets/86f27b90-dfda-4afc-9779-170cc2de1ece)
+## X and Y values:
+![image](https://github.com/user-attachments/assets/f4be992c-bf75-4b2e-9841-74a0dceb096b)
+## Slope:
+![image](https://github.com/user-attachments/assets/29d92eee-a160-406a-a148-a4b752b0f97f)
+## Y_intercept:
+![image](https://github.com/user-attachments/assets/1bc2b2c1-cd7d-43ad-ba38-b37bf67f752b)
+## Y_Predicted value:
+![image](https://github.com/user-attachments/assets/ba74411c-21d1-4ba5-ad44-d41316ef7742)
+## Graph:
+![image](https://github.com/user-attachments/assets/38da0aeb-eb44-43ad-a11d-803536d57138)
+
 
 
 
