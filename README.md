@@ -46,6 +46,8 @@ plt.show()
 ```
 
 ## Output:
+## Name: Abishek P
+## Register number: 212224240002
 ## X and Y values:
 ![image](https://github.com/user-attachments/assets/f4be992c-bf75-4b2e-9841-74a0dceb096b)
 ## Slope:
